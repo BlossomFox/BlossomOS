@@ -1,5 +1,5 @@
-# BlossomOS
-My Custom Ubuntu Based Builds of Linux
+# Blossom OS
+My Custom Ubuntu Linux Based Builds 
 
 Not ready for production use yet
 
@@ -9,8 +9,9 @@ Planned Builds & Naming Scheme
 
 i based the names around the Constellations
 
-First Build - Centaurus - Pre-Release 1 
+Build Pre-Release 1 is a Mac OS Themed Version
 
-Second Build - Libra - Pre-Release 2
+Main Builds Are  named around the Constellations.
+
 
 and so On. everything is subject to change in this disc
