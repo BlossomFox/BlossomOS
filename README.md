@@ -1,5 +1,5 @@
 # Blossom OS
-My Custom Ubuntu Linux Based Builds 
+My Custom Ubuntu Based Builds 
 
 Not ready for production use yet
 
