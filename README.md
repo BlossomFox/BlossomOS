@@ -1,4 +1,4 @@
-Heavily Customized Operating System Repository.
+Customized Operating System Repository.
 
 Downloadable OVF images & .ISO images
 
