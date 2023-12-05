@@ -1,3 +1,3 @@
-Blossom OS Operating System Repository
+Blossom OSs Operating System Repository
 
 everything is subject to change in this disc.
