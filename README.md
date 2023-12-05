@@ -1,5 +1,3 @@
-Blossom Desktops
-
-Customized/Tweaked Operating Systems.
+Blossom OS Themed/Customized/Tweaked Operating System Repository
 
 everything is subject to change in this disc.
