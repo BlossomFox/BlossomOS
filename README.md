@@ -7,7 +7,7 @@ With Downloadable OVF images & .ISO images
 Windows
 Builds
 
-Virus Protection is still enabled it 100% Safe to Use these Builds
+Virus Protection is still enabled it Safe to Use these Builds
 since the anti Virus is still enabled by default if you are planning
 to download a Customized Win Copy with some minor acceptions you have to provide your own Activation Keys
 not including them there are plenty of ways to do it i wont go into detail here.
