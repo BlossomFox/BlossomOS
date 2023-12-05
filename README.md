@@ -1,5 +1,5 @@
-# Blossom OS
+Blossom Desktops
 
-My Customized/Tweaked Operating Systems.
+Customized/Tweaked Operating Systems.
 
 everything is subject to change in this disc.
