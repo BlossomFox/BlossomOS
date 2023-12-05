@@ -4,8 +4,6 @@ Customized Operating System Repository.
 
 With Downloadable OVF images & .ISO images
 
-WARNING NOT READY FOR PRODUCTION USE!
-
 Contains customized Windows based images
 
 Windows
