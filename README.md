@@ -1,3 +1,1 @@
-Blossom Foxs - Customized Operating System Repository
-
-everything is subject to change in this disc.
+Customized Operating System Repository.
