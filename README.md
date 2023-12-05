@@ -2,6 +2,6 @@ Blossom Fox's
 
 Customized Operating System Repository.
 
-Downloadable OVF images & .ISO images
+With Downloadable OVF images & .ISO images
 
 WARNING NOT READY FOR PRODUCTION USE!
