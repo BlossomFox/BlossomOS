@@ -4,7 +4,7 @@ Customized Operating System Repository.
 
 With Downloadable OVF images & .ISO images
 
-Windows
+Tweaked Windows
 Builds
 
 Virus Protection is still enabled it Safe to Use these Builds
@@ -13,5 +13,6 @@ to download a Customized Win Copy with some minor acceptions you have to provide
 not including them there are plenty of ways to do it i wont go into detail here.
 make sure there the correct keys too. if you do want to activate windows
 
-Linux 
+Tweaked Linux 
 Builds
+Coming Soon
