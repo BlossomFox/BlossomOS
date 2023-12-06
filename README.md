@@ -1,8 +1,4 @@
-Voxel Fantasy - MMORPG Experience for Java Edition install.
-
-
-
-
+Voxel Fantasy - MMORPG Experience for Java Edition.
 
 
 Low Bare Minimum System Requirements:
