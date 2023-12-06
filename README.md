@@ -2,21 +2,33 @@ Voxel Fantasy - MMORPG Experience for Java Edition.
 
 
 Low Bare Minimum System Requirements:
+
 CPU GEN: i5 10th
+
 System Memory 16G
+
 NVidia GPU: RTX3060/RTX3080/RTX3090/RTX4070 
+
 AMD GPU: 7900XT/7900XTX
 
 Recommended System Requirements
+
 CPU GEN: INTEL 12th/13th/14th+
+
 System Memory: 32G+ or 64G+
+
 Nvidia GPU: RTX RTX3060/RTX3080/RTX3090/RTX4070/RTX4080/RTX4090
+
 AMD GPU 7900XT/7900XTX
 
 High Recommended System Requirements
+
 CPU GEN: INTEL 13th/14th+
+
 System Memory: 32G+ or 64G+
+
 Nvidia GPU: RTX RTX4090
+
 AMD GPU 7900XTX
 
 
