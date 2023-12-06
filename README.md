@@ -1,5 +1,7 @@
 Voxel Fantasy Online - MMORPG Experience.
 
+to run
+
 install with Modrinth Launcher
 
 (Get it Here) 
