@@ -1,1 +1,1 @@
-Voxel Fantasy Online
+Voxel Fantasy Project
