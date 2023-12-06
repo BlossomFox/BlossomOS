@@ -1,3 +1,1 @@
-Voxel Fantasy Project
-
-The MCMMORPG Experience for Java Edition
+Voxel Fantasy - MMORPG Experience for Java Edition
