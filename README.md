@@ -1,10 +1,16 @@
 Voxel Fantasy - MMORPG Experience for Java Edition.
 
 install with Modrinth Launcher
-(Get it Here) https://modrinth.com/app
 
+(Get it Here) 
+
+https://modrinth.com/app
+
+Voxel Fantasy: Online
 
 Low Bare Minimum System Requirements:
+
+A Active internet Connection
 
 CPU GEN: i5 10th
 
@@ -16,6 +22,8 @@ AMD GPU: 7900XT/7900XTX
 
 Recommended System Requirements
 
+A Active internet Connection
+
 CPU GEN: INTEL 12th/13th/14th+
 
 System Memory: 32G+ or 64G+
@@ -25,6 +33,8 @@ Nvidia GPU: RTX RTX3060/RTX3080/RTX3090/RTX4070/RTX4080/RTX4090
 AMD GPU 7900XT/7900XTX
 
 High Recommended System Requirements
+
+A Active internet Connection
 
 CPU GEN: INTEL 13th/14th+
 
