@@ -1,4 +1,4 @@
-Voxel Fantasy Online - MMORPG Experience.
+Voxel Fantasy Online - MMORPG Experience For Java Edition.
 
 to run
 
