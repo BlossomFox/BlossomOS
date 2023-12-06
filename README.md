@@ -1,4 +1,4 @@
-Voxel Fantasy - MMORPG Experience.
+Voxel Fantasy Online - MMORPG Experience.
 
 install with Modrinth Launcher
 
