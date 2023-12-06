@@ -1,4 +1,4 @@
-Voxel Fantasy - MMORPG Experience for Java Edition.
+Voxel Fantasy - MMORPG Experience.
 
 install with Modrinth Launcher
 
