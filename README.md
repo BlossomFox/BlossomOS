@@ -1,5 +1,8 @@
 Voxel Fantasy - MMORPG Experience for Java Edition.
 
+install with Modrinth Launcher
+(Get it Here) https://modrinth.com/app
+
 
 Low Bare Minimum System Requirements:
 
