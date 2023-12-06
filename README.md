@@ -1,3 +1,3 @@
-Voxel Fantasy Project 
+Voxel Fantasy Project
 
-Ultra Modded Experiences for Java Edition of MC
+The MCMMORPG Experience for Java Edition
