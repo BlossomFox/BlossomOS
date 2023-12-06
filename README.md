@@ -1,4 +1,4 @@
-Voxel Fantasy - MMORPG Experience for Java Edition.
+Voxel Fantasy - MMORPG Experience for MC Java Edition.
 
 install with Modrinth Launcher
 
@@ -10,7 +10,7 @@ Voxel Fantasy: Online
 
 Low Bare Minimum System Requirements:
 
-A Active internet Connection
+Active internet Connection
 
 CPU GEN: i5 10th
 
@@ -22,7 +22,7 @@ AMD GPU: 7900XT/7900XTX
 
 Recommended System Requirements
 
-A Active internet Connection
+Active internet Connection
 
 CPU GEN: INTEL 12th/13th/14th+
 
