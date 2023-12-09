@@ -8,6 +8,12 @@ install with Modrinth Launcher
 
 https://modrinth.com/app
 
+OR
+
+NOT RECOMMENDED
+
+install with Prism Launcher
+
 Voxel Fantasy: Online
 
 Low Bare Minimum System Requirements:
