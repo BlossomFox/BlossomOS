@@ -14,7 +14,7 @@ NOT RECOMMENDED
 
 install with Prism Launcher
 
-Voxel Fantasy: Online
+Voxel Online
 
 Low Bare Minimum System Requirements:
 
