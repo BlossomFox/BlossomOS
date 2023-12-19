@@ -12,6 +12,10 @@ OR
 
 install with Prism Launcher
 
+(Get it Here)
+
+https://prismlauncher.org/
+
 Voxel Online
 
 Low Bare Minimum System Requirements:
