@@ -1,4 +1,4 @@
-Voxel Online - JRPG Experience For Java Edition.
+Voxel Online - J-RPG Experience For Java Edition.
 
 to run
 
@@ -9,8 +9,6 @@ install with Modrinth Launcher
 https://modrinth.com/app
 
 OR
-
-NOT RECOMMENDED
 
 install with Prism Launcher
 
