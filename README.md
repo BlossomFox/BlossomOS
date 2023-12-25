@@ -1,4 +1,4 @@
-Voxel Online - J-RPG Experience For Java Edition.
+Voxel Online - J-RPG - Metaverse Experience For Java Edition.
 
 to run
 
